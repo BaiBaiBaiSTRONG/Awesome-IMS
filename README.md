@@ -13,6 +13,9 @@
 > choose net moudles HERE:  https://github.com/PaddlePaddle/PaddleHub/tree/release/v2.2/modules#Image-Classification
 > ```
 > hub install MOUDLE_NAME_ABOVE
+> 
+> being used: xception65_imagenet, install as below
+> hub install xception65_imagenet
 > ```
 > 
 
